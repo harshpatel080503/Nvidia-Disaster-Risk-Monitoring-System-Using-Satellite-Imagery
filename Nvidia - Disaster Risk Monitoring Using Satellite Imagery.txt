@@ -1,0 +1,68 @@
+Title :- Disaster Risk Monitoring Using Satellite Imagery
+
+End to End Disaster Risk Monitoring System Workflow :-
+
+1. Data Capture
+2. Train Deep Learning Model
+3. Model Management
+4. Model Performance Monitoring
+5. Near Real-Time Inference
+6. Analytics and Alerts
+
+
+Features :-
+
+1. Scalability
+2. Generalizability
+3. Accessibility
+4. Deployment  in real time
+
+Characteristics :-
+Ability to Detect And Quantify Helps Reduce Economic Impact and Loss of Human Lives
+
+Copernicus Sentinel-1 Mission performs C-Band Synthetic Aperture Radar Imaging
+
+Flood Detection Using Semantic Segmentation With Labelled Mask
+
+Machine Learning Workflow :-
+
+1. Preprocessing -> Image + Label
+2. Model Training
+3. Trained Model
+4. Model Deployment
+
+
+
+Nvidia Dali - Data Loading Library(Data Loading + Data Preprocessing)
+Nvidia Dali - Data Augmentation
+
+Nvidia Train Adapt Optimize (TAO) Toolkit
+
+Workflow :- 1. Download Pre-trained Model
+	    2. Prepare the Data
+	    3. Efficiently train Model
+	    4. Evaluate Model Performance
+	    5. Export Model
+
+Transfer Learning with TAO Toolkit
+
+Nvidia Triton Inference Server to Deploy, Run and Scale Trained AI Models 
+
+Real Time Analytics Done On the Edge
+
+Edge-based ML Solutions Provides :-
+		1. Faster Response Time
+		2. Lower Bandwidth Cost
+		3. Mitigate Network Related Problems
+		4. Improve Data Privacy & Security
+
+Satellite Imagery Analysis Workflow :-
+		1. Phase 0 - Preliminary Situation Awareness
+		2. Phase 1 - Rapid Impact Analysis
+		3. Phase 2 - Impact/Damage Assessment
+
+AI-Based Flood Detection Tool
+
+
+
+
